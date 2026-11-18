@@ -359,6 +359,7 @@ BBA Graduate | Aspiring Data Analyst
 
 The following images are the existing EDA screenshots from the project.
 
+<img width="1494" height="841" alt="image" src="https://github.com/user-attachments/assets/c4827e42-8a0b-45f8-8ab2-4577f5dd6718" />
 <img width="530" height="314" alt="Property analysis visualization 1" src="https://github.com/user-attachments/assets/c625d534-e26d-41d1-8ac7-c9b76e2202e6" />
 <img width="518" height="349" alt="Property analysis visualization 2" src="https://github.com/user-attachments/assets/b04b1b83-bf80-4f96-ba0d-6ad2c4f11be0" />
 <img width="510" height="335" alt="Property analysis visualization 3" src="https://github.com/user-attachments/assets/7081d188-8578-40a8-b794-fd0c1b4ddec0" />
